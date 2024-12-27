@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\Medion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|d:\\practice\\medion\\medion\\viewcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\viewcart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\medicine.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\medicine.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\viewcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\viewcart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\productdetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\antibiotics.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\antibiotics.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\signin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\site2.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\productdetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\tablets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\tablets.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\vitaminsnsupplements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\vitaminsnsupplements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\antibiotics.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\antibiotics.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\vitaminsnsupplements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\vitaminsnsupplements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\site2.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\tablets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\tablets.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\medicine.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\medicine.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\addproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\addproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\addproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\addproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\site3.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\site3.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\content\\script\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\content\\script\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|D:\\Practice\\Medion\\medion\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C4B4AC0-F309-4CF4-B951-91F7C3DAE448}|Medion\\Medion.csproj|solutionrelative:medion\\userdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Medion\\SignUp.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\SignUp.aspx",
+              "RelativeToolTip": "Medion\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T14:17:11.172Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\Default.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Default.aspx.cs",
+              "RelativeToolTip": "Medion\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:31:10.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewCart.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\ViewCart.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\ViewCart.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\ViewCart.aspx.cs",
+              "RelativeToolTip": "Medion\\ViewCart.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:59:05.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\Cart.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Cart.aspx.cs",
+              "RelativeToolTip": "Medion\\Cart.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T14:17:29.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewCart.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\ViewCart.aspx",
+              "RelativeDocumentMoniker": "Medion\\ViewCart.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\ViewCart.aspx",
+              "RelativeToolTip": "Medion\\ViewCart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T14:16:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Cart.aspx",
+              "RelativeDocumentMoniker": "Medion\\Cart.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Cart.aspx",
+              "RelativeToolTip": "Medion\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T14:16:31.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Antibiotics.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Antibiotics.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\Antibiotics.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Antibiotics.aspx.cs",
+              "RelativeToolTip": "Medion\\Antibiotics.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:31:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Antibiotics.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Antibiotics.aspx",
+              "RelativeDocumentMoniker": "Medion\\Antibiotics.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Antibiotics.aspx",
+              "RelativeToolTip": "Medion\\Antibiotics.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T11:31:30.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VitaminsNSupplements.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\VitaminsNSupplements.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\VitaminsNSupplements.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\VitaminsNSupplements.aspx.cs",
+              "RelativeToolTip": "Medion\\VitaminsNSupplements.aspx.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:24:40.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VitaminsNSupplements.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\VitaminsNSupplements.aspx",
+              "RelativeDocumentMoniker": "Medion\\VitaminsNSupplements.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\VitaminsNSupplements.aspx",
+              "RelativeToolTip": "Medion\\VitaminsNSupplements.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T11:24:19.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tablets.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Tablets.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\Tablets.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Tablets.aspx.cs",
+              "RelativeToolTip": "Medion\\Tablets.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T11:14:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tablets.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Tablets.aspx",
+              "RelativeDocumentMoniker": "Medion\\Tablets.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Tablets.aspx",
+              "RelativeToolTip": "Medion\\Tablets.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T11:13:48.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicine.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Medicine.aspx",
+              "RelativeDocumentMoniker": "Medion\\Medicine.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Medicine.aspx",
+              "RelativeToolTip": "Medion\\Medicine.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T06:25:42.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDetails.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\ProductDetails.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\ProductDetails.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\ProductDetails.aspx.cs",
+              "RelativeToolTip": "Medion\\ProductDetails.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:21:00.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetails.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\ProductDetails.aspx",
+              "RelativeDocumentMoniker": "Medion\\ProductDetails.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\ProductDetails.aspx",
+              "RelativeToolTip": "Medion\\ProductDetails.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-21T06:21:54.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Medicine.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Medicine.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\Medicine.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Medicine.aspx.cs",
+              "RelativeToolTip": "Medion\\Medicine.aspx.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAD4vyMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:26:25.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddProducts.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\AddProducts.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\AddProducts.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\AddProducts.aspx.cs",
+              "RelativeToolTip": "Medion\\AddProducts.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:18:35.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddProducts.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\AddProducts.aspx",
+              "RelativeDocumentMoniker": "Medion\\AddProducts.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\AddProducts.aspx",
+              "RelativeToolTip": "Medion\\AddProducts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-15T15:11:22.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Site3.Master",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Site3.Master",
+              "RelativeDocumentMoniker": "Medion\\Site3.Master",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Site3.Master",
+              "RelativeToolTip": "Medion\\Site3.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-15T15:08:06.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Content\\Script\\script.js",
+              "RelativeDocumentMoniker": "Medion\\Content\\Script\\script.js",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Content\\Script\\script.js",
+              "RelativeToolTip": "Medion\\Content\\Script\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-14T10:54:37.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Medion\\Site1.Master.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Site1.Master.cs",
+              "RelativeToolTip": "Medion\\Site1.Master.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:17:52.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site2.Master.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Site2.Master.cs",
+              "RelativeDocumentMoniker": "Medion\\Site2.Master.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Site2.Master.cs",
+              "RelativeToolTip": "Medion\\Site2.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T10:17:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "userDashBoard.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\userDashBoard.aspx",
+              "RelativeDocumentMoniker": "Medion\\userDashBoard.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\userDashBoard.aspx",
+              "RelativeToolTip": "Medion\\userDashBoard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-14T09:54:00.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Site2.Master",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Site2.Master",
+              "RelativeDocumentMoniker": "Medion\\Site2.Master",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Site2.Master",
+              "RelativeToolTip": "Medion\\Site2.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-14T09:50:59.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Medion\\Global.asax.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Global.asax.cs",
+              "RelativeToolTip": "Medion\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:47:59.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignIn.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\SignIn.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\SignIn.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\SignIn.aspx.cs",
+              "RelativeToolTip": "Medion\\SignIn.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:31:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignIn.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\SignIn.aspx",
+              "RelativeDocumentMoniker": "Medion\\SignIn.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\SignIn.aspx",
+              "RelativeToolTip": "Medion\\SignIn.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T17:38:32.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "Medion\\SignUp.aspx.cs",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\SignUp.aspx.cs",
+              "RelativeToolTip": "Medion\\SignUp.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:37:44.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Default.aspx",
+              "RelativeDocumentMoniker": "Medion\\Default.aspx",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Default.aspx",
+              "RelativeToolTip": "Medion\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T13:53:02.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Content\\Css\\style.css",
+              "RelativeDocumentMoniker": "Medion\\Content\\Css\\style.css",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Content\\Css\\style.css",
+              "RelativeToolTip": "Medion\\Content\\Css\\style.css",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAqwHkBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T13:43:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\Practice\\Medion\\Medion\\Site1.Master",
+              "RelativeDocumentMoniker": "Medion\\Site1.Master",
+              "ToolTip": "D:\\Practice\\Medion\\Medion\\Site1.Master",
+              "RelativeToolTip": "Medion\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-12T13:35:05.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
